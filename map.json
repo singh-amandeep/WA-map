@@ -387,7 +387,7 @@
                         {
                          "name":"focusable",
                          "type":"bool",
-                         "value":true
+                         "value":false
                         }, 
                         {
                          "name":"jitsiRoom",
@@ -400,9 +400,9 @@
                          "value":"onaction"
                         }, 
                         {
-                         "name":"zoom_margin",
-                         "type":"float",
-                         "value":1
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"https:\/\/www.w3schools.com\/quiztest\/quiztest.php?qtest=CYBERSECURITY"
                         }],
                  "rotation":0,
                  "visible":true,
@@ -481,7 +481,7 @@
                         {
                          "name":"focusable",
                          "type":"bool",
-                         "value":true
+                         "value":false
                         }, 
                         {
                          "name":"jitsiRoom",
@@ -494,9 +494,9 @@
                          "value":"onaction"
                         }, 
                         {
-                         "name":"zoom_margin",
-                         "type":"float",
-                         "value":1
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"https:\/\/youtu.be\/inWWhr5tnEA"
                         }],
                  "rotation":0,
                  "visible":true,
