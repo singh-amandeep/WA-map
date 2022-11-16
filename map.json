@@ -402,7 +402,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/www.w3schools.com\/quiztest\/quiztest.php?qtest=CYBERSECURITY"
+                         "value":"https:\/\/www.pewresearch.org\/internet\/quiz\/cybersecurity-knowledge\/"
                         }],
                  "rotation":0,
                  "visible":true,
@@ -496,7 +496,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/youtu.be\/inWWhr5tnEA"
+                         "value":"https:\/\/youtu.be\/https:\/\/www.youtube.com\/embed\/inWWhr5tnEA"
                         }],
                  "rotation":0,
                  "visible":true,
