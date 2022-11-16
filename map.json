@@ -540,11 +540,6 @@
                          "name":"openTab",
                          "type":"string",
                          "value":"https:\/\/emulator.cybintsolutions.com\/wademo\/"
-                        }, 
-                        {
-                         "name":"zoom_margin",
-                         "type":"float",
-                         "value":1
                         }],
                  "rotation":0,
                  "visible":true,
@@ -605,11 +600,6 @@
                          "name":"openWebsite",
                          "type":"string",
                          "value":"https:\/\/webhook-cywar.thrivedx.io\/integration\/integration\/free-application-security-training\/owasp-top-10-user-enumeration"
-                        }, 
-                        {
-                         "name":"zoom_margin",
-                         "type":"float",
-                         "value":1
                         }],
                  "rotation":0,
                  "visible":true,
