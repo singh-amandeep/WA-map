@@ -604,7 +604,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/application.security\/free-application-security-training\/owasp-top-10-command-injection"
+                         "value":"https:\/\/webhook-cywar.thrivedx.io\/integration\/integration\/free-application-security-training\/owasp-top-10-user-enumeration"
                         }, 
                         {
                          "name":"zoom_margin",
