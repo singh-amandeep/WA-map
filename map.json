@@ -539,7 +539,7 @@
                         {
                          "name":"openTab",
                          "type":"string",
-                         "value":"https:\/\/tftus.com"
+                         "value":"https:\/\/emulator.cybintsolutions.com\/wademo\/"
                         }, 
                         {
                          "name":"zoom_margin",
